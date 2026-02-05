@@ -1,0 +1,1514 @@
+[
+    {
+        "Unidad": "T-101 D",
+        "timestamp": 1770246837,
+        "Diferencia_tiempo": "0 dias, 0 horas y 36 minutos",
+        "Direccion": [
+            "Calle 2, Parque Industrial, Colima 28075, Mexico"
+        ],
+        "Latitud": 19.23509,
+        "Longitud": -103.75822,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-016 D",
+        "timestamp": 1770246701,
+        "Diferencia_tiempo": "0 dias, 0 horas y 39 minutos",
+        "Direccion": [
+            "Avenida Irapuato, Ciudad Industrial, Irapuato, Guanajuato 36541, Mexico"
+        ],
+        "Latitud": 20.627372,
+        "Longitud": -101.291475,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-078-D",
+        "timestamp": 1770244406,
+        "Diferencia_tiempo": "0 dias, 1 horas y 17 minutos",
+        "Direccion": [
+            "Mex-45D, Ejido Rancho Grande, Irapuato, Guanajuato 36544, Mexico"
+        ],
+        "Latitud": 20.6553093363,
+        "Longitud": -101.295580918,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "T-46 D",
+        "timestamp": 1770243775,
+        "Diferencia_tiempo": "0 dias, 1 horas y 27 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963138,
+        "Longitud": -99.529541,
+        "Velocidad": 0,
+        "Voltaje": 12.84
+    },
+    {
+        "Unidad": "T-70 D",
+        "timestamp": 1770237860,
+        "Diferencia_tiempo": "0 dias, 3 horas y 6 minutos",
+        "Direccion": [
+            "Mex-95D, La Magueyera, Xochimilco, Ciudad De M\u00e9xico 16240, Mexico"
+        ],
+        "Latitud": 19.243547,
+        "Longitud": -99.148743,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-150 D",
+        "timestamp": 1770234528,
+        "Diferencia_tiempo": "0 dias, 4 horas y 2 minutos",
+        "Direccion": [
+            "Carretera Irapuato-Salamanca, Ejido Rancho Grande, Irapuato, Guanajuato 36544, Mexico"
+        ],
+        "Latitud": 20.652857,
+        "Longitud": -101.299101,
+        "Velocidad": 95,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-120 D",
+        "timestamp": 1770234075,
+        "Diferencia_tiempo": "0 dias, 4 horas y 9 minutos",
+        "Direccion": [
+            "Mex-45D, Ejido Rancho Grande, Irapuato, Guanajuato 36544, Mexico"
+        ],
+        "Latitud": 20.65412,
+        "Longitud": -101.297797,
+        "Velocidad": 28,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-100 D",
+        "timestamp": 1770225717,
+        "Diferencia_tiempo": "0 dias, 6 horas y 28 minutos",
+        "Direccion": [
+            "Avenida Irapuato, Irapuato, Guanajuato, Mexico"
+        ],
+        "Latitud": 20.643164,
+        "Longitud": -101.286109,
+        "Velocidad": 38,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL 065",
+        "timestamp": 1770220589,
+        "Diferencia_tiempo": "0 dias, 7 horas y 54 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573486,
+        "Longitud": -103.347048,
+        "Velocidad": 0,
+        "Voltaje": 12.96
+    },
+    {
+        "Unidad": "C-058 D",
+        "timestamp": 1770219682,
+        "Diferencia_tiempo": "0 dias, 8 horas y 9 minutos",
+        "Direccion": [
+            "Mex-15D, Ocotl\u00e1n, Jalisco, Mexico"
+        ],
+        "Latitud": 20.396455,
+        "Longitud": -102.726885,
+        "Velocidad": 0,
+        "Voltaje": 0.04
+    },
+    {
+        "Unidad": "C-008 D",
+        "timestamp": 1770212135,
+        "Diferencia_tiempo": "0 dias, 10 horas y 15 minutos",
+        "Direccion": [
+            "Calle Leonesa, Tecn\u00f3logico De Le\u00f3n Norte, Le\u00f3n, Guanajuato 37288, Mexico"
+        ],
+        "Latitud": 21.112198,
+        "Longitud": -101.627509,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-112 D",
+        "timestamp": 1770206450,
+        "Diferencia_tiempo": "0 dias, 11 horas y 50 minutos",
+        "Direccion": [
+            "Libramiento La Piedad, P\u00e9njamo, Guanajuato, Mexico"
+        ],
+        "Latitud": 20.391304,
+        "Longitud": -101.978438,
+        "Velocidad": 0,
+        "Voltaje": 8.83
+    },
+    {
+        "Unidad": "C-104 D",
+        "timestamp": 1770196387,
+        "Diferencia_tiempo": "0 dias, 14 horas y 37 minutos",
+        "Direccion": [
+            "Avenida Irapuato, Ciudad Industrial, Irapuato, Guanajuato 36541, Mexico"
+        ],
+        "Latitud": 20.627524,
+        "Longitud": -101.291515,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL T-78 D",
+        "timestamp": 1770181368,
+        "Diferencia_tiempo": "0 dias, 18 horas y 48 minutos",
+        "Direccion": [
+            "Mex-57D, Jilotepec, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 20.102308,
+        "Longitud": -99.697606,
+        "Velocidad": 0,
+        "Voltaje": 4.21
+    },
+    {
+        "Unidad": "C-099 D",
+        "timestamp": 1770167832,
+        "Diferencia_tiempo": "0 dias, 22 horas y 33 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962278,
+        "Longitud": -99.529471,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-119 - I",
+        "timestamp": 1770155511,
+        "Diferencia_tiempo": "1 dias, 1 horas y 59 minutos",
+        "Direccion": [
+            "Carretera Tepeji Del R\u00edo Jilotepec, El Quichi, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9643364937,
+        "Longitud": -99.5267879705,
+        "Velocidad": 0,
+        "Voltaje": 12.52
+    },
+    {
+        "Unidad": "C-150 - I",
+        "timestamp": 1770143388,
+        "Diferencia_tiempo": "1 dias, 5 horas y 21 minutos",
+        "Direccion": [
+            "Avenida Irapuato, Ciudad Industrial, Irapuato, Guanajuato 36541, Mexico"
+        ],
+        "Latitud": 20.628145,
+        "Longitud": -101.292081,
+        "Velocidad": 0,
+        "Voltaje": 12.811
+    },
+    {
+        "Unidad": "TRACTO 215 CAMARA",
+        "timestamp": 1770103241,
+        "Diferencia_tiempo": "1 dias, 16 horas y 30 minutos",
+        "Direccion": [
+            "Edomex-13, Ojo De Agua, Tepeji Del R\u00edo De Ocampo, Hidalgo 42865, Mexico"
+        ],
+        "Latitud": 19.976708,
+        "Longitud": -99.444968,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-084",
+        "timestamp": 1770056818,
+        "Diferencia_tiempo": "2 dias, 5 horas y 23 minutos",
+        "Direccion": [
+            "Calle Ram\u00f3n Mart\u00ednez Zamora, L\u00f3pez Cotilla, Tlaquepaque, Jalisco 45615, Mexico"
+        ],
+        "Latitud": 20.57601,
+        "Longitud": -103.358426,
+        "Velocidad": 0,
+        "Voltaje": 12.587
+    },
+    {
+        "Unidad": "C-107 D",
+        "timestamp": 1769995983,
+        "Diferencia_tiempo": "2 dias, 22 horas y 17 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573273,
+        "Longitud": -103.34723,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL-C-165",
+        "timestamp": 1769870603,
+        "Diferencia_tiempo": "4 dias, 9 horas y 7 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962375,
+        "Longitud": -99.52991,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-320",
+        "timestamp": 1769838713,
+        "Diferencia_tiempo": "4 dias, 17 horas y 58 minutos",
+        "Direccion": [
+            "Mex-45, 2Da Fracci\u00f3n De Crespo, Celaya, Guanajuato 38110, Mexico"
+        ],
+        "Latitud": 20.5161533,
+        "Longitud": -100.8838283,
+        "Velocidad": 86,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-073 D",
+        "timestamp": 1769837297,
+        "Diferencia_tiempo": "4 dias, 18 horas y 22 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962311,
+        "Longitud": -99.529619,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL T-31 D",
+        "timestamp": 1769769755,
+        "Diferencia_tiempo": "5 dias, 13 horas y 8 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9628233,
+        "Longitud": -99.5296233,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "031 - I",
+        "timestamp": 1769758487,
+        "Diferencia_tiempo": "5 dias, 16 horas y 16 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962813,
+        "Longitud": -99.529609,
+        "Velocidad": 0,
+        "Voltaje": 6.62
+    },
+    {
+        "Unidad": "C-041 - I",
+        "timestamp": 1769702658,
+        "Diferencia_tiempo": "6 dias, 7 horas y 46 minutos",
+        "Direccion": [
+            "Circuito Exterior Mexiquense, Texcoco, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 19.4515466,
+        "Longitud": -98.9268666,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "006 - I",
+        "timestamp": 1769651965,
+        "Diferencia_tiempo": "6 dias, 21 horas y 51 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962858,
+        "Longitud": -99.52954,
+        "Velocidad": 0,
+        "Voltaje": 6.75
+    },
+    {
+        "Unidad": "GDL T-06 D",
+        "timestamp": 1769642497,
+        "Diferencia_tiempo": "7 dias, 0 horas y 29 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962853,
+        "Longitud": -99.529571,
+        "Velocidad": 0,
+        "Voltaje": 7.33
+    },
+    {
+        "Unidad": "C-006 D",
+        "timestamp": 1769578664,
+        "Diferencia_tiempo": "7 dias, 18 horas y 13 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96289,
+        "Longitud": -99.529427,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-385 - I",
+        "timestamp": 1769443275,
+        "Diferencia_tiempo": "9 dias, 7 horas y 49 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9626233,
+        "Longitud": -99.5298016,
+        "Velocidad": 0,
+        "Voltaje": 12.841
+    },
+    {
+        "Unidad": "GDL-C-040",
+        "timestamp": 1769217371,
+        "Diferencia_tiempo": "11 dias, 22 horas y 34 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573474,
+        "Longitud": -103.347754,
+        "Velocidad": 0,
+        "Voltaje": 14.149
+    },
+    {
+        "Unidad": "096 - I",
+        "timestamp": 1769159224,
+        "Diferencia_tiempo": "12 dias, 14 horas y 43 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962886,
+        "Longitud": -99.529475,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "T-96 D",
+        "timestamp": 1769151447,
+        "Diferencia_tiempo": "12 dias, 16 horas y 53 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96268,
+        "Longitud": -99.529389,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-060 D",
+        "timestamp": 1769136308,
+        "Diferencia_tiempo": "12 dias, 21 horas y 5 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962654,
+        "Longitud": -99.529647,
+        "Velocidad": 0,
+        "Voltaje": 10.102
+    },
+    {
+        "Unidad": "T-98 D",
+        "timestamp": 1769131119,
+        "Diferencia_tiempo": "12 dias, 22 horas y 32 minutos",
+        "Direccion": [
+            "Manuel G\u00f3mez Mor\u00edn 5200, Artesanos, Tlaquepaque, Jalisco 45598, Mexico"
+        ],
+        "Latitud": 20.580799,
+        "Longitud": -103.339407,
+        "Velocidad": 0,
+        "Voltaje": 14.028
+    },
+    {
+        "Unidad": "C-069 D",
+        "timestamp": 1768956553,
+        "Diferencia_tiempo": "14 dias, 23 horas y 1 minutos",
+        "Direccion": [
+            "Calle De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.574023,
+        "Longitud": -103.347043,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-115 D",
+        "timestamp": 1768952773,
+        "Diferencia_tiempo": "15 dias, 0 horas y 4 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573596,
+        "Longitud": -103.347542,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-119 D",
+        "timestamp": 1768655776,
+        "Diferencia_tiempo": "18 dias, 10 horas y 34 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962648,
+        "Longitud": -99.529528,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-117 D",
+        "timestamp": 1768614035,
+        "Diferencia_tiempo": "18 dias, 22 horas y 10 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962526,
+        "Longitud": -99.529465,
+        "Velocidad": 0,
+        "Voltaje": 9.94
+    },
+    {
+        "Unidad": "GDL T-81 D",
+        "timestamp": 1768112507,
+        "Diferencia_tiempo": "24 dias, 17 horas y 29 minutos",
+        "Direccion": [
+            "Avenida De La Solidaridad Iberoamericana 7845A, Baja California, El Salto, Jalisco 45693, Mexico"
+        ],
+        "Latitud": 20.548577,
+        "Longitud": -103.301628,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL 081",
+        "timestamp": 1768106884,
+        "Diferencia_tiempo": "24 dias, 19 horas y 2 minutos",
+        "Direccion": [
+            "Avenida De La Solidaridad Iberoamericana 7845A, Baja California, El Salto, Jalisco 45693, Mexico"
+        ],
+        "Latitud": 20.548556,
+        "Longitud": -103.301644,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "102 - I FULL",
+        "timestamp": 1767631665,
+        "Diferencia_tiempo": "30 dias, 7 horas y 3 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963044,
+        "Longitud": -99.529571,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "140 - I FULL",
+        "timestamp": 1767320383,
+        "Diferencia_tiempo": "33 dias, 21 horas y 31 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963042,
+        "Longitud": -99.529746,
+        "Velocidad": 0,
+        "Voltaje": 7.68
+    },
+    {
+        "Unidad": "C-325 - I",
+        "timestamp": 1766359168,
+        "Diferencia_tiempo": "45 dias, 0 horas y 31 minutos",
+        "Direccion": [
+            "Avenida Irapuato 101, Ciudad Industrial, Irapuato, Guanajuato 36541, Mexico"
+        ],
+        "Latitud": 20.6409133,
+        "Longitud": -101.2878783,
+        "Velocidad": 0,
+        "Voltaje": 15.647
+    },
+    {
+        "Unidad": "05 \/ FMC130 18314",
+        "timestamp": 1766177217,
+        "Diferencia_tiempo": "47 dias, 3 horas y 3 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963025,
+        "Longitud": -99.5293866,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "12 \/ FMC130 83005",
+        "timestamp": 1766176793,
+        "Diferencia_tiempo": "47 dias, 3 horas y 10 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962955,
+        "Longitud": -99.5293833,
+        "Velocidad": 0,
+        "Voltaje": 8.121
+    },
+    {
+        "Unidad": "C-047 - I",
+        "timestamp": 1765454759,
+        "Diferencia_tiempo": "55 dias, 11 horas y 44 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96303,
+        "Longitud": -99.529646,
+        "Velocidad": 0,
+        "Voltaje": 8.06
+    },
+    {
+        "Unidad": "T-102 D",
+        "timestamp": 1765323402,
+        "Diferencia_tiempo": "57 dias, 0 horas y 14 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962963,
+        "Longitud": -99.529711,
+        "Velocidad": 0,
+        "Voltaje": 12.07
+    },
+    {
+        "Unidad": "C-110 D",
+        "timestamp": 1765261598,
+        "Diferencia_tiempo": "57 dias, 17 horas y 24 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962851,
+        "Longitud": -99.529618,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-155",
+        "timestamp": 1765096488,
+        "Diferencia_tiempo": "59 dias, 15 horas y 16 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962912,
+        "Longitud": -99.529486,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL-C-078",
+        "timestamp": 1764720675,
+        "Diferencia_tiempo": "63 dias, 23 horas y 39 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962818,
+        "Longitud": -99.529522,
+        "Velocidad": 0,
+        "Voltaje": 10.144
+    },
+    {
+        "Unidad": "C-039 - I",
+        "timestamp": 1764286312,
+        "Diferencia_tiempo": "69 dias, 0 horas y 18 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962556,
+        "Longitud": -99.529406,
+        "Velocidad": 0,
+        "Voltaje": 12.888
+    },
+    {
+        "Unidad": "T-140 D",
+        "timestamp": 1764248614,
+        "Diferencia_tiempo": "69 dias, 10 horas y 47 minutos",
+        "Direccion": [
+            "Circuito Exterior Mexiquense, Texcoco, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 19.470554,
+        "Longitud": -99.01397,
+        "Velocidad": 0,
+        "Voltaje": 12.14
+    },
+    {
+        "Unidad": "GDL-C-003",
+        "timestamp": 1763686601,
+        "Diferencia_tiempo": "75 dias, 22 horas y 54 minutos",
+        "Direccion": [
+            "Carretera A Zapotlanejo, El Salto, Jalisco, Mexico"
+        ],
+        "Latitud": 20.528228,
+        "Longitud": -103.271008,
+        "Velocidad": 0,
+        "Voltaje": 8.157
+    },
+    {
+        "Unidad": "C-102 D",
+        "timestamp": 1763678485,
+        "Diferencia_tiempo": "76 dias, 1 horas y 9 minutos",
+        "Direccion": [
+            "Carretera A Zapotlanejo, El Salto, Jalisco, Mexico"
+        ],
+        "Latitud": 20.529113,
+        "Longitud": -103.27226,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-005 D",
+        "timestamp": 1763646954,
+        "Diferencia_tiempo": "76 dias, 9 horas y 54 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962413,
+        "Longitud": -99.529374,
+        "Velocidad": 0,
+        "Voltaje": 11.059
+    },
+    {
+        "Unidad": "GDL-C-102",
+        "timestamp": 1763456813,
+        "Diferencia_tiempo": "78 dias, 14 horas y 43 minutos",
+        "Direccion": [
+            "Anillo Perif\u00e9rico Sur, L\u00f3pez Cotilla, Tlaquepaque, Jalisco 45615, Mexico"
+        ],
+        "Latitud": 20.576697,
+        "Longitud": -103.359824,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "09 \/ FMC130 083096",
+        "timestamp": 1762971373,
+        "Diferencia_tiempo": "84 dias, 5 horas y 34 minutos",
+        "Direccion": [
+            "Paseo Viento Sur 900, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.512295,
+        "Longitud": -103.405615,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-108 D",
+        "timestamp": 1762809646,
+        "Diferencia_tiempo": "86 dias, 2 horas y 30 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962836,
+        "Longitud": -99.529639,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-114 D",
+        "timestamp": 1762056512,
+        "Diferencia_tiempo": "94 dias, 19 horas y 42 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962574,
+        "Longitud": -99.529693,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-108",
+        "timestamp": 1761866686,
+        "Diferencia_tiempo": "97 dias, 0 horas y 26 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96282,
+        "Longitud": -99.529729,
+        "Velocidad": 0,
+        "Voltaje": 12.513
+    },
+    {
+        "Unidad": "C-026",
+        "timestamp": 1761850430,
+        "Diferencia_tiempo": "97 dias, 4 horas y 57 minutos",
+        "Direccion": [
+            "Carretera Tepeji Del R\u00edo Jilotepec, La Dalia, Jilotepec, M\u00e9xico 54240, Mexico"
+        ],
+        "Latitud": 19.9609461532,
+        "Longitud": -99.5132245589,
+        "Velocidad": 0,
+        "Voltaje": 12.676
+    },
+    {
+        "Unidad": "GDL T-72 D",
+        "timestamp": 1761843439,
+        "Diferencia_tiempo": "97 dias, 6 horas y 53 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573519,
+        "Longitud": -103.347081,
+        "Velocidad": 0,
+        "Voltaje": 13.5
+    },
+    {
+        "Unidad": "C-003 D",
+        "timestamp": 1761769604,
+        "Diferencia_tiempo": "98 dias, 3 horas y 24 minutos",
+        "Direccion": [
+            "Calle Incalpa, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.575491,
+        "Longitud": -103.347809,
+        "Velocidad": 8,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-053",
+        "timestamp": 1761630287,
+        "Diferencia_tiempo": "99 dias, 18 horas y 6 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962312,
+        "Longitud": -99.52985,
+        "Velocidad": 0,
+        "Voltaje": 8.139
+    },
+    {
+        "Unidad": "C-014",
+        "timestamp": 1761417728,
+        "Diferencia_tiempo": "102 dias, 5 horas y 8 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96325,
+        "Longitud": -99.529486,
+        "Velocidad": 0,
+        "Voltaje": 12.778
+    },
+    {
+        "Unidad": "C-014 D",
+        "timestamp": 1761406031,
+        "Diferencia_tiempo": "102 dias, 8 horas y 23 minutos",
+        "Direccion": [
+            "Mex-57D, Soyaniquilpan De Ju\u00e1rez, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 19.996432,
+        "Longitud": -99.480236,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "089 - I",
+        "timestamp": 1760233106,
+        "Diferencia_tiempo": "115 dias, 22 horas y 12 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9630773,
+        "Longitud": -99.5297703,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "T-89 D",
+        "timestamp": 1760033656,
+        "Diferencia_tiempo": "118 dias, 5 horas y 36 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963011,
+        "Longitud": -99.529738,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-042",
+        "timestamp": 1759869653,
+        "Diferencia_tiempo": "120 dias, 3 horas y 9 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962321,
+        "Longitud": -99.529576,
+        "Velocidad": 0,
+        "Voltaje": 12.662
+    },
+    {
+        "Unidad": "C-056 D",
+        "timestamp": 1759795154,
+        "Diferencia_tiempo": "120 dias, 23 horas y 51 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962252,
+        "Longitud": -99.529884,
+        "Velocidad": 0,
+        "Voltaje": 12.577
+    },
+    {
+        "Unidad": "C-026 D",
+        "timestamp": 1759755172,
+        "Diferencia_tiempo": "121 dias, 10 horas y 57 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962932,
+        "Longitud": -99.529757,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-034",
+        "timestamp": 1759524175,
+        "Diferencia_tiempo": "124 dias, 3 horas y 7 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962295,
+        "Longitud": -99.5297316,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-027 D",
+        "timestamp": 1759456037,
+        "Diferencia_tiempo": "124 dias, 22 horas y 3 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962663,
+        "Longitud": -99.529448,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-032 D",
+        "timestamp": 1759293553,
+        "Diferencia_tiempo": "126 dias, 19 horas y 11 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96257,
+        "Longitud": -99.529454,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-027",
+        "timestamp": 1759010317,
+        "Diferencia_tiempo": "130 dias, 1 horas y 52 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962681,
+        "Longitud": -99.529668,
+        "Velocidad": 0,
+        "Voltaje": 0.02
+    },
+    {
+        "Unidad": "200 - I",
+        "timestamp": 1758752062,
+        "Diferencia_tiempo": "133 dias, 1 horas y 36 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9632233,
+        "Longitud": -99.5296383,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-140",
+        "timestamp": 1758739357,
+        "Diferencia_tiempo": "133 dias, 5 horas y 8 minutos",
+        "Direccion": [
+            "Carretera Tepeji Del R\u00edo Jilotepec, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9631095798,
+        "Longitud": -99.5271430322,
+        "Velocidad": 0,
+        "Voltaje": 12.73
+    },
+    {
+        "Unidad": "T-84 D",
+        "timestamp": 1758646226,
+        "Diferencia_tiempo": "134 dias, 7 horas y 0 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962931,
+        "Longitud": -99.5297908,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-140 D",
+        "timestamp": 1758561483,
+        "Diferencia_tiempo": "135 dias, 6 horas y 32 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962395,
+        "Longitud": -99.529688,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "GDL-C-023",
+        "timestamp": 1758489825,
+        "Diferencia_tiempo": "136 dias, 2 horas y 27 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573561,
+        "Longitud": -103.347558,
+        "Velocidad": 0,
+        "Voltaje": 12.513
+    },
+    {
+        "Unidad": "084 - I FULL",
+        "timestamp": 1758397088,
+        "Diferencia_tiempo": "137 dias, 4 horas y 12 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96308,
+        "Longitud": -99.529847,
+        "Velocidad": 0,
+        "Voltaje": 8.25
+    },
+    {
+        "Unidad": "C-123 D",
+        "timestamp": 1758045652,
+        "Diferencia_tiempo": "141 dias, 5 horas y 49 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962765,
+        "Longitud": -99.529946,
+        "Velocidad": 0,
+        "Voltaje": 11.77
+    },
+    {
+        "Unidad": "C-023 D",
+        "timestamp": 1757986051,
+        "Diferencia_tiempo": "141 dias, 22 horas y 23 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573436,
+        "Longitud": -103.347474,
+        "Velocidad": 0,
+        "Voltaje": 12.934
+    },
+    {
+        "Unidad": "C-114",
+        "timestamp": 1757709774,
+        "Diferencia_tiempo": "145 dias, 3 horas y 7 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962307,
+        "Longitud": -99.529721,
+        "Velocidad": 0,
+        "Voltaje": 14.077
+    },
+    {
+        "Unidad": "C-106 D",
+        "timestamp": 1756567184,
+        "Diferencia_tiempo": "158 dias, 8 horas y 31 minutos",
+        "Direccion": [
+            "Calle Leonesa, Tecn\u00f3logico De Le\u00f3n Norte, Le\u00f3n, Guanajuato 37288, Mexico"
+        ],
+        "Latitud": 21.112445,
+        "Longitud": -101.627483,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "13 \/ QRO FMC130 63935",
+        "timestamp": 1756486688,
+        "Diferencia_tiempo": "159 dias, 6 horas y 52 minutos",
+        "Direccion": [
+            "Paseo Viento Sur, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.5123133,
+        "Longitud": -103.405515,
+        "Velocidad": 0,
+        "Voltaje": 7.486
+    },
+    {
+        "Unidad": "C-053 D",
+        "timestamp": 1756435273,
+        "Diferencia_tiempo": "159 dias, 21 horas y 9 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962526,
+        "Longitud": -99.529824,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-020 D**",
+        "timestamp": 1755816649,
+        "Diferencia_tiempo": "167 dias, 1 horas y 0 minutos",
+        "Direccion": [
+            "Carretera A Zapotlanejo, El Salto, Jalisco, Mexico"
+        ],
+        "Latitud": 20.52901,
+        "Longitud": -103.272059,
+        "Velocidad": 0,
+        "Voltaje": 0
+    },
+    {
+        "Unidad": "C-047 D",
+        "timestamp": 1755349828,
+        "Diferencia_tiempo": "172 dias, 10 horas y 40 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962939,
+        "Longitud": -99.529396,
+        "Velocidad": 1,
+        "Voltaje": 8
+    },
+    {
+        "Unidad": "17 RAFA GUADALAJARA GDL-C-080",
+        "timestamp": 1753496557,
+        "Diferencia_tiempo": "193 dias, 21 horas y 28 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573408,
+        "Longitud": -103.347648,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-123",
+        "timestamp": 1753451593,
+        "Diferencia_tiempo": "194 dias, 9 horas y 57 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962244,
+        "Longitud": -99.529697,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL T-15 D",
+        "timestamp": 1752802202,
+        "Diferencia_tiempo": "201 dias, 22 horas y 20 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573335,
+        "Longitud": -103.347092,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL 015",
+        "timestamp": 1752801977,
+        "Diferencia_tiempo": "201 dias, 22 horas y 24 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573438,
+        "Longitud": -103.347056,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-034 D",
+        "timestamp": 1751875241,
+        "Diferencia_tiempo": "212 dias, 15 horas y 50 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962489,
+        "Longitud": -99.529447,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "14 RAFA GDL 87319",
+        "timestamp": 1750957631,
+        "Diferencia_tiempo": "223 dias, 6 horas y 43 minutos",
+        "Direccion": [
+            "Paseo Viento Sur, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.5123899,
+        "Longitud": -103.4055266,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-122",
+        "timestamp": 1748131421,
+        "Diferencia_tiempo": "255 dias, 23 horas y 47 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962818,
+        "Longitud": -99.529521,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-122 D",
+        "timestamp": 1748108872,
+        "Diferencia_tiempo": "256 dias, 6 horas y 2 minutos",
+        "Direccion": [
+            "Carretera Tepeji Del R\u00edo Jilotepec, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963515,
+        "Longitud": -99.52798,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-030*",
+        "timestamp": 1748107855,
+        "Diferencia_tiempo": "256 dias, 6 horas y 19 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573546,
+        "Longitud": -103.347649,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-111 D",
+        "timestamp": 1747766800,
+        "Diferencia_tiempo": "260 dias, 5 horas y 4 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.961941,
+        "Longitud": -99.529315,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-118 D*",
+        "timestamp": 1746152080,
+        "Diferencia_tiempo": "278 dias, 21 horas y 36 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962433,
+        "Longitud": -99.52943,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-101 D",
+        "timestamp": 1745986483,
+        "Diferencia_tiempo": "280 dias, 19 horas y 36 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96245,
+        "Longitud": -99.529579,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-103 D",
+        "timestamp": 1745874646,
+        "Diferencia_tiempo": "282 dias, 2 horas y 40 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962779,
+        "Longitud": -99.529522,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-155",
+        "timestamp": 1744399938,
+        "Diferencia_tiempo": "299 dias, 4 horas y 18 minutos",
+        "Direccion": [
+            "Mex-55, Acambay, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 19.984542,
+        "Longitud": -99.871027,
+        "Velocidad": 26,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-070 D",
+        "timestamp": 1741785509,
+        "Diferencia_tiempo": "329 dias, 10 horas y 32 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962479,
+        "Longitud": -99.529621,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-103",
+        "timestamp": 1741170673,
+        "Diferencia_tiempo": "336 dias, 13 horas y 19 minutos",
+        "Direccion": [
+            "Carretera Tepeji Del R\u00edo Jilotepec, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.963134,
+        "Longitud": -99.529288,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-113",
+        "timestamp": 1738010399,
+        "Diferencia_tiempo": "373 dias, 3 horas y 10 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.96258,
+        "Longitud": -99.529693,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-046",
+        "timestamp": 1733364698,
+        "Diferencia_tiempo": "426 dias, 21 horas y 39 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962149,
+        "Longitud": -99.529495,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-032",
+        "timestamp": 1730511342,
+        "Diferencia_tiempo": "459 dias, 22 horas y 15 minutos",
+        "Direccion": [
+            "Libramiento Sureste De Jerez, Jerez, Zacatecas, Mexico"
+        ],
+        "Latitud": 22.648391,
+        "Longitud": -102.959059,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-045",
+        "timestamp": 1730419500,
+        "Diferencia_tiempo": "460 dias, 23 horas y 45 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.5733416,
+        "Longitud": -103.347395,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-028",
+        "timestamp": 1730336165,
+        "Diferencia_tiempo": "461 dias, 22 horas y 54 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573803,
+        "Longitud": -103.347618,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-111",
+        "timestamp": 1730077445,
+        "Diferencia_tiempo": "464 dias, 22 horas y 46 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.57349,
+        "Longitud": -103.347485,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-030 D",
+        "timestamp": 1729655008,
+        "Diferencia_tiempo": "469 dias, 20 horas y 7 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573278,
+        "Longitud": -103.347516,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-113 D",
+        "timestamp": 1729190991,
+        "Diferencia_tiempo": "475 dias, 5 horas y 1 minutos",
+        "Direccion": [
+            "Mex-40D, Jilotepec, M\u00e9xico, Mexico"
+        ],
+        "Latitud": 19.966843,
+        "Longitud": -99.537441,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "Z EQ EDUARDO T-091 D",
+        "timestamp": 1727382545,
+        "Diferencia_tiempo": "496 dias, 3 horas y 21 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.9629666,
+        "Longitud": -99.5298225,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "15 RAFA GDL 53250",
+        "timestamp": 1727280964,
+        "Diferencia_tiempo": "497 dias, 7 horas y 34 minutos",
+        "Direccion": [
+            "Paseo Viento Sur, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.512415,
+        "Longitud": -103.4055516,
+        "Velocidad": 2,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-056",
+        "timestamp": 1725906378,
+        "Diferencia_tiempo": "513 dias, 5 horas y 24 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962645,
+        "Longitud": -99.52962,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "16 RAFA GDL 85741",
+        "timestamp": 1721780282,
+        "Diferencia_tiempo": "560 dias, 23 horas y 32 minutos",
+        "Direccion": [
+            "Paseo Viento Sur 900, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.51232,
+        "Longitud": -103.405605,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-107",
+        "timestamp": 1717831883,
+        "Diferencia_tiempo": "606 dias, 16 horas y 19 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 2, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573571,
+        "Longitud": -103.348137,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-070",
+        "timestamp": 1717772315,
+        "Diferencia_tiempo": "607 dias, 8 horas y 52 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573521,
+        "Longitud": -103.347463,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL-C-118",
+        "timestamp": 1716444468,
+        "Diferencia_tiempo": "622 dias, 17 horas y 43 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573392,
+        "Longitud": -103.34784,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-101",
+        "timestamp": 1714920180,
+        "Diferencia_tiempo": "640 dias, 9 horas y 7 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962355,
+        "Longitud": -99.529622,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-105 D",
+        "timestamp": 1714708827,
+        "Diferencia_tiempo": "642 dias, 19 horas y 50 minutos",
+        "Direccion": [
+            "Calle Melchor Ocampo, La Cruz De Dendho, Jilotepec, M\u00e9xico 54257, Mexico"
+        ],
+        "Latitud": 19.962533,
+        "Longitud": -99.52958,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "17 RAFA GDL 21194",
+        "timestamp": 1709147581,
+        "Diferencia_tiempo": "707 dias, 4 horas y 37 minutos",
+        "Direccion": [
+            "Paseo Viento Sur, Fracc Ampliaci\u00f3n La Rosita, Torre\u00f3n, Coahuila De Zaragoza 27258, Mexico"
+        ],
+        "Latitud": 25.5123633,
+        "Longitud": -103.405525,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "GDL T-60 D",
+        "timestamp": 1706407278,
+        "Diferencia_tiempo": "738 dias, 21 horas y 49 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.573259,
+        "Longitud": -103.347319,
+        "Velocidad": 0,
+        "Voltaje": null
+    },
+    {
+        "Unidad": "C-105",
+        "timestamp": 1696582626,
+        "Diferencia_tiempo": "852 dias, 14 horas y 53 minutos",
+        "Direccion": [
+            "Privada De La Ll Avenue 180, La Llave, Tlaquepaque, Jalisco 45618, Mexico"
+        ],
+        "Latitud": 20.57362,
+        "Longitud": -103.3475116,
+        "Velocidad": 0,
+        "Voltaje": null
+    }
+]
