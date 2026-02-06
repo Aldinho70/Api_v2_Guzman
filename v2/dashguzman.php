@@ -66,7 +66,7 @@ function sendJson($filename, $data)
 include 'wialon.php';
 
 $wialon = new Wialon();
-$token  = 'd26901b3a1b754d30e264a18da1e24e37D546C592086F4464E3316BF1EE0EC4375D7DBAB';
+$token  = 'd26901b3a1b754d30e264a18da1e24e37AC702FCC0735B72987A8FAFDD6E86F43350A5CB';
 
 $loginRaw = $wialon->login($token);
 $login    = json_decode($loginRaw, true);
@@ -107,27 +107,19 @@ $results = [
 ========================= */
 foreach ($units->items as $u) {
 
-    $origen  = '';
-    $destino = '';
-    $status  = '';
-
-    $pos       = $u->pos ?? null;
+    $pos       = $u->pos ?? ' ';
     $velocidad = $pos->s ?? 0;
     $online    = $u->netconn ?? 0;
 
-    if (!empty($u->flds)) {
-        foreach ($u->flds as $f) {
-            if ($f->n === '1 ORIGEN')  $origen  = $f->v;
-            if ($f->n === '2 DESTINO') $destino = $f->v;
-        }
+    foreach ($u->flds as $f) {
+        if ($f->n === '1 ORIGEN')  $origen  = $f->v;
+        if ($f->n === '2 DESTINO') $destino = $f->v;
     }
 
-    if (!empty($u->aflds)) {
-        foreach ($u->aflds as $a) {
-            if ($a->n === '1STATUSDASHBOARD') {
-                $status = $a->v;
-                break;
-            }
+    foreach ($u->aflds as $a) {
+        if ($a->n === '1STATUSDASHBOARD') {
+            $status = $a->v;
+            
         }
     }
 
@@ -136,8 +128,8 @@ foreach ($units->items as $u) {
         'Origen'         => $origen,
         'Destino'        => $destino,
         'UltimoReporte'  => '',
-        'Latitud'        => $pos->y ?? null,
-        'Longitud'       => $pos->x ?? null,
+        'Latitud'        => $pos->y ?? '',
+        'Longitud'       => $pos->x ?? '',
         'Velocidad'      => $velocidad,
         'Online'         => $online,
         'Status'         => $status
@@ -167,8 +159,11 @@ foreach ($units->items as $u) {
             $results['descargando'][] = $row;
             if ($velocidad >= 15) $results['sinstatus'][] = $row;
             break;
+
     }
 }
+    
+// echo json_encode($results['vacios']);
 
 /* =========================
    ENVÍO Y SALIDA DEBUG
