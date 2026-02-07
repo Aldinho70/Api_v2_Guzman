@@ -66,7 +66,7 @@ $resultado   = [];
 try {
 
     $wialon = new Wialon();
-    $token  = 'd26901b3a1b754d30e264a18da1e24e37D546C592086F4464E3316BF1EE0EC4375D7DBABclea';
+    $token  = '616ec32c39df3a8ca8675c2714354302F54018DCD79BC956121735CEC66787398E7804F7';
 
     $loginRaw = $wialon->login($token);
     $login    = json_decode($loginRaw, true);

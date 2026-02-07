@@ -66,7 +66,7 @@ function sendJson($filename, $data)
 include 'wialon.php';
 
 $wialon = new Wialon();
-$token  = 'd26901b3a1b754d30e264a18da1e24e37D546C592086F4464E3316BF1EE0EC4375D7DBAB';
+$token  = '551527f22ace2479fecc70da76114c824578A38707D4EDF9A33EFF9BC16593C8679E0AE7';
 
 $loginRaw = $wialon->login($token);
 $login    = json_decode($loginRaw, true);
